@@ -14,7 +14,7 @@ VanillaRat is an advanced remote administration tool coded in C#. VanillaRat use
 - Clipboard Text (Copied text)
 
 ### TODO:
-- Code cleanup and commenting
+- Code cleanup and commenting (50% complete) 
 - Add a keylogger
 - Add password recovery
 - Add a remote shell 
