@@ -56,4 +56,4 @@ Once a client is connected you can select the client and right click on the clie
 ![Capture](https://user-images.githubusercontent.com/39781618/54472005-b7bca600-478f-11e9-8a0a-45006870ee18.PNG)
 ## Important Disclaimer:
 
-**I am in no way responsible for any malicious actions that you may make using this software. Please take note that this application was designed for educational purposes and should never be used malicously.**
+**I am in no way responsible for any malicious actions that you may make using this software. Please take note that this application was designed for educational purposes and should never be used maliciously.**
