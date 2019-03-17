@@ -39,7 +39,7 @@ Note: If you accidentally run VanillaRatStub.exe, you can end the process by ope
 6. Run VanillaRat.exe and have fun! 
 7. If any modification is made to VanillaRat or VanillaRatStub steps 4-5 need to be repeated. 
 
-### Using Vanilla Rat
+### Using Vanilla Rat:
 
 **Setting The Server Up:**
 To get started you must have at least one open port that you do not use with other applications. The default port is 1604. You must also have a dynamic dns address which you can get from https://no-ip.com/.
